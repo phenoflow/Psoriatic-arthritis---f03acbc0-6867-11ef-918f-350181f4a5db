@@ -1,0 +1,45 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/psoriatic-arthritis-mutilan---secondary.py
+inputModule3:
+  class: File
+  path: python/similar-psoriatic-arthritis---secondary.py
+inputModule4:
+  class: File
+  path: python/arthropathy-psoriatic-arthritis---secondary.py
+inputModule5:
+  class: File
+  path: python/psoriatic-arthritis-dystrophy---secondary.py
+inputModule6:
+  class: File
+  path: python/psoriatic-arthritis-pitting---secondary.py
+inputModule7:
+  class: File
+  path: python/arthritis---secondary.py
+inputModule8:
+  class: File
+  path: python/psoriatic-arthritis-dactylitis---secondary.py
+inputModule9:
+  class: File
+  path: python/psoriatic-arthritis-spine---secondary.py
+inputModule10:
+  class: File
+  path: python/juvenile-psoriatic-arthritis---secondary.py
+inputModule11:
+  class: File
+  path: python/psoriatic-arthritis-onycholysis---secondary.py
+inputModule12:
+  class: File
+  path: python/psoriatic-arthritis-joint---secondary.py
+inputModule13:
+  class: File
+  path: python/psoriatic-arthritis-iritis---secondary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
